@@ -18,7 +18,7 @@ Automated staking and cross-trading bot for Hoodi Network (Chain ID: 560048) wit
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/Jauhar40/Ekox-Testnet-V2.git
 cd hoodi-staking-bot
 
 # Install dependencies
